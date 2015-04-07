@@ -1,4 +1,9 @@
-all: clean
+all: generate
+
+server:
+	npm start
+
+generate: clean
 	npm run generate
 
 commit:

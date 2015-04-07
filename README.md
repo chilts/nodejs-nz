@@ -27,7 +27,7 @@ $ make generate
 $ make server
 ```
 
-In your browser, head to `http://localhost:3000` and check everything looks as it should.
+In your browser, head to `http://localhost:4000` and check everything looks as it should.
 
 Once you're happy with the changes, just add and commit the changes to the `src/` directory (and anything else) but do
 not add any changes within `htdocs/`. This way I can merge changes and regenerate and push myself prior to
