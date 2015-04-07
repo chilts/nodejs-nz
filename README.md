@@ -21,6 +21,7 @@ Head into the `site` directory and install all other npm dependencies:
 
 ```sh
 $ cd site
+$ npm install
 $ make generate
 $ xdg-open public
 ```
