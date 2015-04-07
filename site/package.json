@@ -5,8 +5,7 @@
   "scripts": {
     "new-post": "hexo new post new-post",
     "start": "hexo server",
-    "generate": "hexo generate",
-    "clean": "hexo clean"
+    "generate": "hexo generate"
   },
   "hexo": {
     "version": "3.0.1"
