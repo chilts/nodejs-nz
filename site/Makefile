@@ -1,5 +1,8 @@
 all: generate
 
+new-post:
+	npm run new-post
+
 server:
 	npm start
 
