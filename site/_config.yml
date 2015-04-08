@@ -1,6 +1,10 @@
+# -------------------------------------------------------------------------------
+
 # Hexo Configuration
 ## Docs: http://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+
+# -------------------------------------------------------------------------------
 
 # Site
 title: nodejs.nz
@@ -59,6 +63,12 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+# -------------------------------------------------------------------------------
+
+# Extensions
+
+## Plugins: http://hexo.io/plugins/
+
 # RSS/Atom Feed
 feed:
   type: atom
@@ -69,12 +79,16 @@ feed:
 sitemap:
     path: sitemap.xml
 
-# Extensions
-## Plugins: http://hexo.io/plugins/
+# -------------------------------------------------------------------------------
+
 ## Themes: http://hexo.io/themes/
 theme: landscape
+
+# -------------------------------------------------------------------------------
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# -------------------------------------------------------------------------------

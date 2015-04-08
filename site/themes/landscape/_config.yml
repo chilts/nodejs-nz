@@ -1,7 +1,8 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Archives: /archives/
+  User Groups: /user-groups/
 rss: /atom.xml
 
 # Content
