@@ -10,7 +10,7 @@ generate: clean
 	npm run generate
 
 commit:
-	git commit -m 'Generated site'
+	git commit -a -m 'Generated site'
 
 release:
 	rsync -a htdocs/ dirac.chilts.org:/var/lib/chilts-static/nodejs.nz
